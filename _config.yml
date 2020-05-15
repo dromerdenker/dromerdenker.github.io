@@ -1,28 +1,30 @@
 title: Publish, by F.O
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mine, for anything too big to Tweet.
+  I don’t expect anyone to read any of it. But if you read it, take fair warning:
+  not “clean”, NSFW, Very Explicit.
+  I am a good person deep down inside, somewhere.
+  Commenting? Nope! If _you_ want to be published, start your own blog. I don’t care what you think. This is about me.. me me me!
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/publications" # the subpath of your site, e.g. /blog
 url: "http://dromerdenker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: '@dromerdenker'
 
 # Author Settings
 author: 'F.O.' # add your name
-author-img:  # add your photo
+#author-img:  # add your photo
 about-author: 'tbd' # add description
 social-twitter: '@dromerdenker' # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-facebook: # add your Facebook handle
 social-github: dromerdenker # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+#social-linkedin: # add your Linkedin handle
+#social-email: # add your Email address
 
 # Disqus
-discus-identifier:  # add your discus identifier
+#discus-identifier:  # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
