@@ -2,8 +2,8 @@ title: Publish, by F.O
 description: > # this means to ignore newlines until "baseurl:"
   For thoughts bigger than a Tweet.
   Minimalist,Explicit.
-  
   I am a good person deep down inside, somewhere.
+  
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 permalink: ':title/'
