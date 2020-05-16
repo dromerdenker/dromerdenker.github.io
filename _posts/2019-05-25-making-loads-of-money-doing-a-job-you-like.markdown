@@ -6,9 +6,7 @@ description: Contemplating on interviewing, negotiating salary, promotions, and 
 img: big-cash.png # Add image post (optional)
 ---
 
-## Making loads of money doing a job you like.
-
-Sounds great. Let’s start with some more details.
+Sounds great. Let’s start.
 
 ### Job
 
