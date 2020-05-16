@@ -3,7 +3,7 @@ layout: post
 title: "Making loads of money in a job you Like."
 date: 2019-05-25 22:00:00 +0300
 description: Contemplating on interviewing, negotiating salary, promotions, and my humble steps in mastery. # Add post description (optional)
-img:  # Add image post (optional)
+img: big-cash.jpg # Add image post (optional)
 ---
 === Making loads of money doing a job you like.
 
