@@ -4,6 +4,7 @@ title: "Making loads of money in a job you Like."
 date: 2019-05-25 22:00:00 +0300
 description: Contemplating on interviewing, negotiating salary, promotions, and my humble steps in mastery. # Add post description (optional)
 img: big-cash.png # Add image post (optional)
+tags: salary
 ---
 
 Sounds great. Let’s start.
