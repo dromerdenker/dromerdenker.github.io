@@ -1,17 +1,20 @@
 ---
 layout: post
-title: "Making loads of money"
+title: "Making loads of money in a job you Like."
 date: 2019-05-25 22:00:00 +0300
 description: Contemplating on interviewing, negotiating salary, promotions, and my humble steps in mastery. # Add post description (optional)
 img:  # Add image post (optional)
 ---
 === Making loads of money doing a job you like.
+
 Sounds great. Let’s start with some more details.
 
 == Job
+
 Means being employed. Someone will have to contract you, hire you, make your their employee.
 
-== Job you like
+== Job you Like
+
 Not every job is likeable, but some jobs take a bit of further inspection before you can tell if they suit you. Looking at a job posting is not enough.
 
 == Loads of money
@@ -45,11 +48,13 @@ Now, if Jane works 3dy/wk (24 hour contract), and Joe works 40 hours/wk, then ev
 **LEARNING: If you are a super-performer, your worth to a company is at most 150% of their lowest performer in the same role.**
 
 == But what about supply and demand for the role?
+
 Some may say: if your skill is in high demand, and extreme short supply, you are worth more than 150%! That’s wrong: because then Joe too is in short supply, so his salary will be high.
 
 Next, you may say that I am wrong about the 50%, and that number is actually different. Well, that does not matter either, because even though Jane is a super-performer, she too is human. She is not always 150% of Joe, sometimes it’s less. And Joe, well he is fairly stable, he is relaxed, and he is not pushing any limits. The real point to this is not how much her worth is at any time though, the point for this is when her value is assessed.
 
 == Assessing your Worth
+
 Salary is set once, at the start of your employment. Most companies consider annual raises, and an occasional high-potential might jank out two raises in the same year – hooray. The bar to jump over to get a bonus is set annually. The assessing of your worth is done seldomly, the rest of the time you spend showing your worth to be remembered by your boss when the next raise or promotion comes around. Which brings us to promotions.
 
 == On promotion
