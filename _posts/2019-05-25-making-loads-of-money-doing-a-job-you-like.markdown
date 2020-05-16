@@ -59,7 +59,7 @@ Salary is set once, at the start of your employment. Most companies consider ann
 
 ### On promotion
 Promotions are like panda’s: they are very rare and even under perfect conditions they never seem to multiply. 
-![panda baby](panda-baby.jpg "baby panda")Promotions are rarer than raises, and they are actually a new job. Promotions are recognition for work done. Meaning you get promoted after you have been doing work of higher value than you are responsible for. This means
+![panda baby](/assets/img/panda-baby.jpg "baby panda")Promotions are rarer than raises, and they are actually a new job. Promotions are recognition for work done. Meaning you get promoted after you have been doing work of higher value than you are responsible for. This means
 
 > when you are being promoted you have been sub-optimal in your “making loads of money”, 
 > because you were getting paid less than your worth
