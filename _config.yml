@@ -2,6 +2,15 @@ title: Publish, by F.O
 description: > # this means to ignore newlines until "baseurl:"
   Mine, for anything too big to Tweet.
 
+  I don’t expect anyone to read any of it. 
+  
+  But IF you read it, take fair warning:
+  Not “clean”. 
+  NSFW. 
+  Explicit.
+  
+  I am a good person deep down inside, somewhere.
+  
 baseurl: "/" # the subpath of your site, e.g. /blog
 permalink: ':title/'
 url: "http://dromerdenker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
