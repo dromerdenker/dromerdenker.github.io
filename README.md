@@ -1,7 +1,10 @@
 See the site [Demo](https://dromerdenker.github.io/)
 
-## Installation:
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+
+## Credits
+
+Taken from [Flexible Jekyll](https://github.com/artemsheludko/flexible-jekyll).
 
 
