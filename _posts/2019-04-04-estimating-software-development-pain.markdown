@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Estimating software development. Pain."
-date: 2019-04-04 22:00:00 +0300
+date: 2019-04-04 22:00:00 +0200
 description: Contemplating on why estimating is a time waster # Add post description (optional)
 img: # Add image post (optional)
 tags: salary
