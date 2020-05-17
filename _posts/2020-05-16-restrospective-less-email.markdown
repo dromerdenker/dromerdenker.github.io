@@ -7,26 +7,29 @@ img: emails-iphone.jpg # Add image post (optional)
 tags: less-email restrospective
 ---
 
-In August of 2019, I launched [Less-Email.com](https://www.less-email.com), which took considerable effort. Now, nine months in, it's high time for a retrospective, with a keep/try list.
+In August of 2019, I launched [Less-Email.com](https://www.less-email.com). That was a considerable project. Nine months in,  here is my retrospective; a keep/try list for future hobby projects.
 
 ### Keep
  * Register a domain name 
- * Buy a professional logo on Fiverr.com
-    both give a sense of seriousness that motivates me to push on, late evenings and early mornings to publish the result.
- * Explore new technology with a clear vision for the result
- * Write / Develop things that I care about having. Build what needs building, scratch my own itch.
- * automate whatever you can, constantly. Each terminal command I capture in a script. Document whatever I can.
+ * Hire a professional artist to design the logo 
+    
+    
+    Both set the tone of seriousness that motivates me to push on, late evenings, to deploy a result.
+ * Explore new technology 
+ * Develop what I care about having. Build what needs building, scratch my own itch.
+ * Automate constantly. Each terminal command I capture in a script. Document whatever I can.
 
 ### Try to do different
 
-  * **Swap out WordPress for a JAM-stack.** WordPress seemed like a good idea, but I found that it has one terrible aspect: Wordpress' database (mysql) does not separate content (less-email recipes) from the configuration of its platform. Every plugin you install gets intertwined with the content database, so it is nearly impossible to deploy only code, or only content! Not to mention that Wordpress is just plain slow to load.
+  * **Avoid WordPress.** WordPress seemed like a good idea, but I found Wordpress' database (mysql) mixes content (less-email recipes) and platform configuration. Every WP plugin installed gets immediately intertwined with the content database, making it very hard to CI-deploy only code, or only content! To top it off Wordpress is just plain slow to load.
   
-  I'd rather trade WordPress in for a slimmer JAM-stack (like this blog). It would be faster, cheaper to host, simple to secure, and much cleaner to maintain the back-end for. I don't __WANT__ a mysql database for posts, that in itself is a most terrible storage mapping. Markdown files are a lot easier to edit, update and plain text always beats proprietary databases.
+  Next web site, I will trade WordPress for a JAM-stack, like this blog. It is fast, cheap to host, simple to secure, and comes with a cleaner separated back-end. Come to think of WordPress: I don't __WANT__ a mysql database for posts, that in itself is a most terrible storage mapping. Markdown posts are a lot easier to edit and update. Plain-text always beats  databases for raw content.
 
-  * Ask my network for suggestions of technology. They generally know what's going on. It can be hard to spot what's the latest trend. 
-  * It is challenging when learning new technology to build unit tests. But on the other hand, unit testing consistently accelerates learning, development and forces understanding. So, even if it is hard, by the time you passed three steps beyond hello world, spend an evening on unit testing, and take it from there.
+  * **Ask my network for tech choices advice.** It can be hard to spot what's the latest trend. That's how I picked WordPress: every one is doing it. The professionals I call my friends generally know what's hot and a good fit for my idea.  
+  * When learning new technology it's challenging to build unit tests. But on the other hand, **unit testing consistently accelerates learning, development and forces understanding**. So, even if it is hard, by the time you passed three steps beyond hello world, spend an evening on unit testing, and take it from there.
   
-### How I feel about it
+### How I feel about the project [Less-Email.com](https://www.less-email.com)
 
-Overall I learned a lot about WordPress, refreshed some PHP (20 years ago!) and the fun was in seeing my creation come to life. I am pleased the site is so stable, it is a bit sad the site has not received much traction yet. 
-To migrate its hosting, I will convert it into a static site (using WP2static). That increases performance. I suppose now is the time to keep nudging people to it.
+I learned about WordPress, refreshed some PHP (20 years ago!), but that was no fun. The fun was in my creation coming to life. I am pleased the site is so stable, it is a sad it has little traction yet. I guess I should be marketing it more - i.e. shove it down people's throats!
+
+To migrate the servers, I now converted it into a static site (using WP2static). That boosts performance. I suppose now is the time to keep nudging people to it.
