@@ -4,7 +4,7 @@ title: "Estimating software development. Pain."
 date: 2019-04-04 22:00:00 +0200
 description: Contemplating on why estimating is a time waster # Add post description (optional)
 img: two-red-dice.jpg # Add image post (optional)
-tags: salary
+tags: estimates software
 ---
 
 At work today, I had the wonderful opportunity to spend an hour handing over guardianship of the Estimate sheet. I used to be the sad character who would update that, for any and every misguided idea that anyone in the company would come up with to finally get estimating right. I suppose my disbelief – which has only grown in the eighteen months of dragging this artefact behind me – and lack of enthusiasm started to show.
