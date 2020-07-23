@@ -69,12 +69,15 @@ What else do you spend? You have expensive habits, and you curate a digital muse
 
 10.    Can you reduce bandwidth? When you send email with a sizeable attachment consider that recipients of less internet savvy countries i.e. places where internet bandwidth 
 is scarce (you know - where your Zoom calls get interrupted all the time!) incur cost to receive it. [Drastically reduce your PPTs file size?](https://robertgreiner.com/how-to-reduce-powerpoint-file-size/) 
+
 11.    Can you reduce storage footprint? Shared and private network folders, particularly old project folders are overflowing with junk we will never need anymore, in triple 
 (version 1.1b.FINAL-BobComments). If you scan the folder for large files, you can scrape off gigabytes no one else dares to delete but you.
+
 The more people do, the later IT needs to purchase drives. And yes, storage is very expensive. It is a common misconception that in this day and age storage is cheap.
 12.    Can you reduce idle CPU consumption? If you turn off and return virtual machines to their pool, you sure can. In my place of work we have hundreds of long closed project development 
 VMs buzzing away, burning up the ozone layer, doing nothing but advancing the clock. IT can archive the image, and spin it back up within a workday if we need it though. But they are waiting for someone to put an individual VM to sleep. 
 If your company runs their own hardware, this is a money saver.  
+
 13.    Can you prune databases? Our VMs connect to a shared SQL server operated by some DBMS power user "the dude". The DB server stores gigabytes of test data 
  often in multiple instances. Pruning junk, and archiving datasets that only serve offline VMs saves money. This is not automatic, and the 
  DB infrastructure is particularly expensive to grow. If like us you have “big-data” customers they lay a heavy footprint. 
