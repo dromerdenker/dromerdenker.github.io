@@ -74,6 +74,7 @@ is scarce (you know - where your Zoom calls get interrupted all the time!) incur
 (version 1.1b.FINAL-BobComments). If you scan the folder for large files, you can scrape off gigabytes no one else dares to delete but you.
 
 The more people do, the later IT needs to purchase drives. And yes, storage is very expensive. It is a common misconception that in this day and age storage is cheap.
+
 12.    Can you reduce idle CPU consumption? If you turn off and return virtual machines to their pool, you sure can. In my place of work we have hundreds of long closed project development 
 VMs buzzing away, burning up the ozone layer, doing nothing but advancing the clock. IT can archive the image, and spin it back up within a workday if we need it though. But they are waiting for someone to put an individual VM to sleep. 
 If your company runs their own hardware, this is a money saver.  
