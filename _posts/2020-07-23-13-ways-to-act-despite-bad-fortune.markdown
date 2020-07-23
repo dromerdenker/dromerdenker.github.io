@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13 ways you can act despite bad fortune."
+title: "13 ways to act despite bad fortune."
 date: 2020-07-23 16:00:00 +0200
 description: How to deal with the corona crisis as a tiny cog in a big company.
 img: buoy.jpg
@@ -19,11 +19,11 @@ Survival strategies to Retain revenue, Increase revenue, pull-forward revenue, a
 
 
 ## You can keep money coming in [retain revenue]
-Considerable revenue of software companies is in yearly maintenance subscriptions from their live customers. Even if your specific team may lack the target to grow maintenance revenue,  those are the customers you know intimately, and their revenue pays our bills now. If you help keep a customer happy enough not to stop their subscription, that is income retained for DS.
+Considerable revenue of software companies is in yearly maintenance subscriptions from their live customers. Even if your specific team may lack the target to grow maintenance revenue,  those are the customers you know intimately, and their revenue pays our bills now. If you help keep a customer happy enough not to stop their subscription, that is income retained.
 
-1.    Dig in your memory beyond the customers you worked with in the past 12 months. Which customer could use some tender loving care on a unique issue you can (help) fix? Modest TLC can be free of charge, and makes a difference. 
-2.    [Track](https://www.google.com/alerts) the news on all customers you worked with. If any customer is shifing business focus, improvising due to the crisis, or shutting parts of the business down, perhaps the systems you developed for them
- needs major adjustment. In fact, they might be tempted to stop using it. Instead, offer your help to transplant your software or to re-apply it. For example, if your customer is adding COVID-home-delivery, perhaps put them in touch with another customer around their corner that knows how to set this up, to share know-how in their community.
+1.    Dig in your memory beyond the customers you worked with in the past 12 months. Which customer could use some tender loving care on a unique issue you can (help) fix? Modest Tender Loving Care can be free of charge, and is always cherished. 
+2.    [Track](https://www.google.com/alerts) the news on all customers you worked with. If any customer is announcing to shift business focus, improvising due to the crisis, or shutting parts of the business down, perhaps the systems you developed for them
+ needs major adjustment. In fact, they might be tempted to stop using it. Instead, offer your help to transplant your software or to re-apply it. For example, if your customer is adding COVID-home-delivery, perhaps put them in touch with another customer of yours (around their corner) that knows how to set this up, to share know-how in their community.
 
 In Q4 of 2020 every IT manager needs to decide about renewal of their licenses & subscriptions. If that IT manager remembers you really ‘had their back’ through tough times, that might leverage an emotional leg up over other ‘expenditures’. 
 
