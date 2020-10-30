@@ -3,7 +3,7 @@ layout: post
 title: "10 years of lessons learned"
 date: 2020-10-31 00:00:00 +0200
 description: What I learned in my career as Project Manager (PM) and Change Manager. # Add post description (optional)
-img:  # Add image post (optional)
+img: blog-post-img-puzzle.jpg # Add image post (optional)
 tags: software project management PM lessons
 ---
 
@@ -68,3 +68,6 @@ To attack a problem you are wise to consult an expert, but consulting multiple e
 
 ## 16. Gift-wrap unrecoverable damages
 Despite assertiveness (lesson 4) occasionally we end up paying the bill for a change, a bad luck event, or whatever. When that happens, never do it quietly. Proclaim for all to hear of your sacrifice, and package it as a gift - on record - to the customer/partner. There will be a next event, and in that future negotiation you start by listing all the gifts you gave before. Repeat, repeat, repeat.
+
+
+* Photo by Dmitry Demidov from Pexels *
