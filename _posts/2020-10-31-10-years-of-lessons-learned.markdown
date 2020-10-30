@@ -7,9 +7,7 @@ img: blog-post-img-puzzle.jpg # Add image post (optional)
 tags: software project management PM lessons
 ---
 
-# 10 years worth of lessons learned
-
-Today is my last working day for a company in the software industry. I have taken a moment to gather the lessons I learned in being a project manager and change manager. Here they are, in no particular order.
+Today is my last working day for this big software company. I gather the lessons I learned in being a Project Manager (PM) and Change Manager / Product Manager. Here they are, in no particular order.
 
 ## 1. beat the competition, prepare
 One can prepare a lot more than the average guy considers to prepare for. Our trick was to win the day by being super-duper-prepared. We would run our presentations with a test audience - multiple times if needed, proof-read each other's (important) emails, and generally consider first-time-right a rare event, a cause for celebration. The company culture even has a dirty word to describe violating due diligence: "winging it".
