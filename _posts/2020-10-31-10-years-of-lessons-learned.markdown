@@ -9,7 +9,7 @@ tags: software project management PM lessons
 
 Today is my last working day for this big software company. I gather the lessons I learned in being a Project Manager (PM) and Change Manager / Product Manager. Here they are, in no particular order, yet stripped from any trade secrets of course.
 
-## 1. beat the competition, prepare
+## 1. Beat the competition: Prepare
 One can prepare a lot more than the average guy considers to prepare for. Our trick was to win the day by being super-duper-prepared. We would run our presentations with a test audience - multiple times if needed, proof-read each other's (important) emails, and generally consider first-time-right a rare event, a cause for celebration. The company culture even has a dirty word to describe violating due diligence: "winging it".
 
 ## 2. A rich demo persona
@@ -51,7 +51,7 @@ Regardless whether the visitor is an expert. Sometimes you get away with a phone
 Show your team cares. Sure, it's a scary visit to undertake, but it's worth it. The manager who taught me this lesson on several occasions, would say "you need to be there." She was always right.
 
 ## 12. Financial and political issues threaten a software project, don't sweat technical ones.
-Technical folks fear technical issues more than others, and among techies the risk list is usually full of technicalities. Yet, because technical challenges are what the team knows best, they are always inflated. Political issues can really derail a project, and no one should fool themselves into thinking that a project can be success if you won't be paid.
+Technical folks fear technical issues more than others, and among techies the risk list is usually full of technicalities. Yet, because technical challenges are what the team knows best, they are always inflated. Political issues can really derail a project, and no one should fool themselves into thinking that a project can be a success if you won't be paid.
 
 ## 13. A 'change' is major if it's major change for ANY of the stakeholders.
 Naive people deem a process/software change major if they themselves experience it so. Technical folks think change in general is a matter of swaying the majority of (known) stakeholders.
