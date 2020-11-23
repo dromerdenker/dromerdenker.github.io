@@ -67,5 +67,19 @@ To attack a problem you are wise to consult an expert, but consulting multiple e
 ## 16. Gift-wrap unrecoverable damages
 Despite assertiveness (lesson 4) occasionally we end up paying the bill for a change, a bad luck event, or whatever. When that happens, never do it quietly. Proclaim for all to hear of your sacrifice, and package it as a gift - on record - to the customer/partner. There will be a next event, and in that future negotiation you start by listing all the gifts you gave before. Repeat, repeat, repeat.
 
+## 17. SPVEM personal goals
+After 15 years of feeling low from having to set 'personal goals' for the year - a neccessary evil in every job I have had, anywhere - to make the HR person happy, and to have something on paper that more or less resembles my responsibility. The issue is that it always came out unmotivating, boring, clerical, or focusing on process rather than value. **SMART goals suck**. Let's start with your life's purpose in 5 minutes:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVsXO9brK7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Then, one day, I found **[SPVEM](https://www.chriscroft.co.uk/smart-why-i-dont-like-it/)**: *Scary Positive Visual Exciting Measureable* goals. It's a breath of fresh air. If you have a LinkedInLearning subscription, I recommend Chris' course on [Success](https://www.lynda.com/Leadership-Management-tutorials/What-success/681076/731384-4.html), very down to earth. My yearly goals, though I still dread writing them every year, actually are energizing to read, and they lift me up.
+
+## 18. You can choose to be easy to manage
+As a project manager (or any other kind of manager) you experience first-hand what other people are like to manage. Bob is quiet until you remind him three times a progress report is due. And Suzanne reports on her progress bombarding everyone with technical details. So you say: *It's just the way they are?*
+
+After a few years of experience, I learned: **do not be fooled!** Reporting about one's own progress influences one's autonomy. Whatever people dread doing gets reported on in an opaque mist of prose. Traditional project managers will cling to records and reports, of nothingness. They know nothing is really progressing, but they need the records to show the paper trail proves it was not their fault. And so the work gets pushed to next quarter, or discarded as *not needed anymore*. Someone saved himself a lot of annoyance there! And that was entirely on purpose.
+
+Conversely, it's surprisingly easy to report *exactly* what & when at the detail level your (project) manager needs from you. Having this skill of course gives you power: use it to steer your destiny toward your self-defined (and agreed) success (see 17). Discipline yourself into sending your manager the 'perfect' self-progress-report *before* you are requested to, consistently. Make it look nice (a chart?), to the point. Make it a blessing to read: upliftingly positive, and REAL. Do not expect a reply - in fact use NNTR - but you can be sure your manager reads the daily/weekly you send. It's what you would like to receive yourself.
+
+In the end, I learned to consider my manager the person whom I should continually prepare to be my standby: Standby to help me push my rock up the hill, help me reach those Exciting goals (professionally) I have set myself. Being easy to manage is my choice for that purpose only. And this perspective is wonderfully liberating.
 
 * Photo by Dmitry Demidov from Pexels *
