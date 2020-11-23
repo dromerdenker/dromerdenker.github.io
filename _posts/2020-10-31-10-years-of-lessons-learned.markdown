@@ -68,10 +68,12 @@ To attack a problem you are wise to consult an expert, but consulting multiple e
 Despite assertiveness (lesson 4) occasionally we end up paying the bill for a change, a bad luck event, or whatever. When that happens, never do it quietly. Proclaim for all to hear of your sacrifice, and package it as a gift - on record - to the customer/partner. There will be a next event, and in that future negotiation you start by listing all the gifts you gave before. Repeat, repeat, repeat.
 
 ## 17. SPVEM personal goals
-After 15 years of feeling low from having to set 'personal goals' for the year - a neccessary evil in every job I have had, anywhere - to make the HR person happy, and to have something on paper that more or less resembles my responsibility. The issue is that it always came out unmotivating, boring, clerical, or focusing on process rather than value. **SMART goals suck**. Let's start with your life's purpose in 5 minutes:
+After 15 years of feeling low from having to set 'personal goals' for the year - a neccessary evil in every job I have had, anywhere - to make the HR person happy, and to have something on paper that more or less resembles my responsibility. The issue is that it always came out unmotivating, boring, clerical, or focusing on process rather than value. **SMART goals suck**. We can do so much better.
+
+Let's start with your life's purpose in 5 minutes:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vVsXO9brK7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Then, one day, I found **[SPVEM](https://www.chriscroft.co.uk/smart-why-i-dont-like-it/)**: *Scary Positive Visual Exciting Measureable* goals. It's a breath of fresh air. If you have a LinkedInLearning subscription, I recommend Chris' course on [Success](https://www.lynda.com/Leadership-Management-tutorials/What-success/681076/731384-4.html), very down to earth. My yearly goals, though I still dread writing them every year, actually are energizing to read, and they lift me up.
+Then, meet **[SPVEM](https://www.chriscroft.co.uk/smart-why-i-dont-like-it/)**: *Scary Positive Visual Exciting Measureable* goals. It's a breath of fresh air. If you have a LinkedInLearning subscription, I recommend Chris' course on [Success](https://www.lynda.com/Leadership-Management-tutorials/What-success/681076/731384-4.html), very down to earth. My yearly goals, though I still dread writing them every year, actually are energizing to read, and they lift me up.
 
 ## 18. You can choose to be easy to manage
 As a project manager (or any other kind of manager) you experience first-hand what other people are like to manage. Bob is quiet until you remind him three times a progress report is due. And Suzanne reports on her progress bombarding everyone with technical details. So you say: *It's just the way they are?*
