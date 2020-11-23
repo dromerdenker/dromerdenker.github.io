@@ -7,7 +7,7 @@ img: blog-post-img-puzzle.jpg # Add image post (optional)
 tags: software project management PM lessons
 ---
 
-Today is my last working day for this big software company. I gather the lessons I learned in being a Project Manager (PM) and Change Manager / Product Manager. Here they are, in no particular order.
+Today is my last working day for this big software company. I gather the lessons I learned in being a Project Manager (PM) and Change Manager / Product Manager. Here they are, in no particular order, yet stripped from any trade secrets of course.
 
 ## 1. beat the competition, prepare
 One can prepare a lot more than the average guy considers to prepare for. Our trick was to win the day by being super-duper-prepared. We would run our presentations with a test audience - multiple times if needed, proof-read each other's (important) emails, and generally consider first-time-right a rare event, a cause for celebration. The company culture even has a dirty word to describe violating due diligence: "winging it".
@@ -26,7 +26,7 @@ I learned to commit to deliver on time, and to let the partner (customer) commit
 
 ## 5. Sell value, not cost
 The price tag on consultancy generally is an hourly rate, but the price tag on a software product can differ a lot depending on your perspective. The cost of huge software is huge. Customers like buying valuable software, they hate to buy expensive software. Beyond MS Office and other boxed stuff, I had never considered that some software products have no set price tag. Their tag says "talk to the sales advisor".
-If your product costs more than your competitor's, it is expensive. If your product convincingly saves the customer millions, it is valuable. Without a list price, you make a price per deal, tailored to this specific customer's value of having it.
+If your product costs more than your competitor's, it is expensive. If your product convincingly saves the customer millions, it is [valuable](https://www.lizwendling.com/sales-training/5-tips-selling-value-price/). Without a list price, you make a price per deal, tailored to this specific customer's value of having it.
 
 ## 6. The best Marketing tactic is to proudly care for others
 The word Marketing had a funny vibe to it. I associated it with advertising, loudness, being pushy. I learned marketing can be subtle and refined. Good Marketing is to be positively noticed by individuals who know someone who would buy from you. Marketing in practice is making sure they find their way to you. It is listening to their needs, and helping them in little ways wherever you can.
@@ -67,7 +67,7 @@ To attack a problem you are wise to consult an expert, but consulting multiple e
 ## 16. Gift-wrap unrecoverable damages
 Despite assertiveness (lesson 4) occasionally we end up paying the bill for a change, a bad luck event, or whatever. When that happens, never do it quietly. Proclaim for all to hear of your sacrifice, and package it as a gift - on record - to the customer/partner. There will be a next event, and in that future negotiation you start by listing all the gifts you gave before. Repeat, repeat, repeat.
 
-## 17. SPVEM personal goals
+## 17. SPVEM is a million times better than SMART 
 After 15 years of feeling low from having to set 'personal goals' for the year - a neccessary evil in every job I have had, anywhere - to make the HR person happy, and to have something on paper that more or less resembles my responsibility. The issue is that it always came out unmotivating, boring, clerical, or focusing on process rather than value. **SMART goals suck**. We can do soooo much better!
 
 Let's start with your life's purpose in 5 minutes:
@@ -75,7 +75,7 @@ Let's start with your life's purpose in 5 minutes:
 
 Then, meet **[SPVEM](https://www.chriscroft.co.uk/smart-why-i-dont-like-it/)**: *Scary Positive Visual Exciting Measureable* goals. It's a breath of fresh air. If you have a LinkedInLearning subscription, I recommend Chris' course on [Success](https://www.lynda.com/Leadership-Management-tutorials/What-success/681076/731384-4.html), very down to earth. My yearly goals, yes I still dread writing them every year, actually are energizing to read, and they lift me up.
 
-## 18. You can choose to be easy to manage
+## 18. Choose to be easy to manage
 As a project manager (or any other kind of manager) you experience first-hand what other people are like to manage. Bob is quiet until you remind him three times a progress report is due. And Suzanne reports on her progress bombarding everyone with technical details. So you say: *"It's just the way they are"*?
 
 I learned: **not to be fooled that way**  Whatever people dread doing gets reported on in an opaque mist of prose. Traditional project managers will cling to records and reports, of nothingness. They know nothing is really progressing, but they need the records to show the paper trail proof: "not my fault". And so the work gets pushed to next quarter, or discarded as *not needed anymore*. Someone saved himself a lot of annoyance there! And that was entirely on purpose. Reporting about one's own progress influences one's autonomy.
@@ -83,5 +83,8 @@ I learned: **not to be fooled that way**  Whatever people dread doing gets repor
 Conversely, it's surprisingly easy to report *exactly* what & when at the detail level your (project) manager needs from you. Having this skill of course gives you power: use it to steer your destiny toward your self-defined (and agreed) success (see 17). Discipline yourself into sending your manager the 'perfect' self-progress-report *before* you are requested to, consistently. Make it look nice (a chart?), make it to the point. Make it a blessing to read: upliftingly positive, and REAL (not robotic). Add emotion! Do not expect a reply - in fact use [NNTR](https://www.less-email.com/nntr-the-gift/) - but be confident your manager reads the daily/weekly gold nugget you send. It's what you would like to receive yourself in her shoes.
 
 In the end, I learned to consider my manager the person whom I should continually prepare to be my standby: Standby to help me push my rock up the hill, help me reach those Exciting goals (professionally) I have set myself. Being easy to manage is my choice for that purpose only. And this perspective is wonderfully liberating.
+
+
+PS. Having a good manager makes all the difference. A thank you to mine: Dan, for reviewing this article, for non-disclosure of any trade secrets.
 
 * Photo by Dmitry Demidov from Pexels *
