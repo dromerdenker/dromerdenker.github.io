@@ -11,17 +11,22 @@ After SalesForce acquired linkedIn, investment capital became available to creat
 
 ## ListenIn
 With ListenIn you can eavesdrop on the inMails of three connections of your choice. A corporate plan of ListenIn will allow you to eavesdrop on all LinkedIn members who have your company (verified) listed as their current employment. A premium listenIn account has unlimited eavesdropping on all your connections.
+
 Though, of course heavy users are hoping to use ListenIn to eavesdrop on non-connections - if only to see what kind of people they are prior to affiliating with them in the first place - pesky European privacy laws seem to prohibit this at least in the first release.
 
 ## TeachIn
-Enforce a LinkedIn-learning course onto a connection prior to receiving anymore inMails, messages, or posts from her. A business account of TeachIn lets you set a deadline on the subject passing the imposed course. Upon failing to achieve the certificate, the subjects loses affiliation with your brand. (Whether you actually retain them on your payroll remains of course entirely up to you.)
-For free-tier users, TeachIn can be a great tool to anonymously suggest to their boss the starting-with-MsOffice  course he so desperately needs, and to hint your project manager onto a Woke course, to refresh any of their 2005 Emotional Intelligence skills, updated for the post Me-too era.
+Enforce a LinkedIn-learning course onto a connection prior to receiving anymore inMails, messages, or posts from her.
+
+A business account of TeachIn lets you set a deadline on the subject passing the imposed course. Upon failing to achieve the certificate, the subjects loses affiliation with your brand. (Whether you actually retain them on your payroll remains of course entirely up to you.)
+
+For free tier members TeachIn is a great tool to **anonymously** suggest to their boss the 'starting with MsOffice'  course he so desperately needs, to hint their project manager onto a 'Woke' course, to refresh any of their 2005 Emotional Intelligence skills updated for the post Me-too era.
 
 ## InVade
-A super-high priced, elite sub-network, with strong encryption, inCoin transactions, and guaranteed free of humor. Aimed toward the 21st century ambitious dictator/world leader of tomorrow.
+A super-high priced, elite sub-network, with strong encryption, inCoin transactions, and guaranteed to be free of humor. Aimed toward the forward thinking, and ambitious dictator/world leader of tomorrow.
 
 ## SpreadIn
-For attention seekers, or those who seek affirmation of (lack of) purpose in their life. SpreadIn is expected to become LinkedIn's entry point for the next wave - Instagrammers seeking to mature and be taken seriously, but who are finding LinkedIn classic painful to fill in a profession. SpreadIn will be the bustling gravitational field of   people who no longer need to retrofit themselves into old-fashioned boxes like 'independent content creator' or 'social media influencer'. Instead they can - without shame - call themselves 'viral attention seeker', or 'slacker' - and everyone on SpreadIn will love them for it! Which reminds me, SpreadIn will come with complimentary Imposter Syndrome (mass) coaching sessions.
+For attention seekers, or those who seek affirmation of (lack of) purpose in their life. SpreadIn is expected to become LinkedIn's entry point for the next wave - Instagrammers seeking to mature and be taken seriously, but who are finding LinkedIn classic painful to fill in a profession. SpreadIn will be the bustling gravitational field of   youngsters in unicorn pyjamas, who no longer need to subject themselves to stigma as 'independent content creator' or 'social media expert'. Instead they can - without shame - call themselves 'viral attention seeker', or 'influencer' - and everyone on SpreadIn will love them for it! Which reminds me, SpreadIn will come with complimentary Imposter Syndrome (mass) coaching sessions.
+
 ** LAST MINUTE UPDATE ** Shortly after publishing this article we learned that the release of SpreadIn is delayed until further notice. My sources tell me this is to avoid reputation damage from COVID-19 spreading context. Considering that the target demographic of SpreadIn could not care less about COVID-19, you can see how carefully diligent LinkedIn prepares a product launch. Stay tuned for updates!
 
 ## InYourFace
