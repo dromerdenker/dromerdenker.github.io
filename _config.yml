@@ -1,10 +1,10 @@
 title: Publish, by F.O
 description: > # this means to ignore newlines until "baseurl:"
   For thoughts bigger than a Tweet.
-  Minimalist,Explicit.
-  I am a good person deep down inside, somewhere.
-  
-  
+  Minimalist, Explicit.
+  I am a good person deep down inside.
+
+
 baseurl: "/" # the subpath of your site, e.g. /blog
 permalink: ':title/'
 #url: "https://publish.felixogg.com" # the base hostname & protocol for your site, e.g. http://example.com
