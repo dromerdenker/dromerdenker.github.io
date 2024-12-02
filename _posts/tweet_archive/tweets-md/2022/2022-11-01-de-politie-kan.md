@@ -1,0 +1,3 @@
+> De politie kan dit concept goedkoop vernietigen\. Plak je eigen QR codes op willekeurige plaatsen over de QR code op de sticker en reken kopers in\. Als het publiek weet dat de kans bestaat gesnapt te worden zijn ALLE QR codes verdacht/onbruikbaar\. https://nos\.nl/l/2450563
+
+<img src="../../media/tweet.ico" width="12" /> [Tue Nov 01 07:50:19 +0000 2022](https://twitter.com/DromerDenker/status/1587351314182422528)

@@ -1,0 +1,3 @@
+> @\_\_yajo Enjoying your COPIER library 👏, trying to use it more often\. Challenge is however that I end up porting back changes from template instance \(a project\) into its \(parent\) template to keep that current\. Could you point me to any doc about such a workflow done efficiently?
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Sep 17 19:53:01 +0000 2021](https://twitter.com/DromerDenker/status/1438954162230894593)

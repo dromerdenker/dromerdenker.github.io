@@ -1,0 +1,3 @@
+> RT @NPORadio1: Op 5 mei zeggen we dat vrijheid niet vanzelfsprekend is\. Omdat dat een cliché is, leest @DiederikSmit een column voor die hi…
+
+<img src="../../media/tweet.ico" width="12" /> [Sat May 06 14:55:42 +0000 2023](https://twitter.com/DromerDenker/status/1654862507868143616)

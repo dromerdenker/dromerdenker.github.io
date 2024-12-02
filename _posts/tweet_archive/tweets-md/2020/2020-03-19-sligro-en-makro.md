@@ -1,0 +1,3 @@
+> Sligro en Makro mogen tijdelijk open voor normaal publiek omdat nu horeca niks meer bij ze komt kopen en de voorraad bederfelijke producten dan verspild wordt\. Nederland biedt zo ook een uitdaging aan de ambitieuze hamsteraars 🐹 die het speelveld van hun buurtsuper al ontgroeien
+
+<img src="../../media/tweet.ico" width="12" /> [Thu Mar 19 12:59:28 +0000 2020](https://twitter.com/DromerDenker/status/1240623925668786176)

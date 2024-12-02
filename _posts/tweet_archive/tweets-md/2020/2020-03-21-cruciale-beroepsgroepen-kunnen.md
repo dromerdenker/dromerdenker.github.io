@@ -1,0 +1,3 @@
+> 🤔 Cruciale beroepsgroepen kunnen voorlopig fluiten naar loonsverhogingen net als iedereen\. Zullen we ze dan voorrang verlenen voor IC bedden? Wel zo eerlijk, duidelijk ook voor de HR managers, procesexperts en voetbalmakelaars die nu samendrommen  uit verveling\.
+
+<img src="../../media/tweet.ico" width="12" /> [Sat Mar 21 18:27:53 +0000 2020](https://twitter.com/DromerDenker/status/1241431352794365952)

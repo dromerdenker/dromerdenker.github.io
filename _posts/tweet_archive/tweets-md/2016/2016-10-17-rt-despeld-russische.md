@@ -1,0 +1,3 @@
+> RT @DeSpeld: Russische krant spreekt vrouw die nooit door Trump is aangerand \- ‘Belangrijk tegenbewijs in lastercampagne’ https://t\.co/X8a4…
+
+<img src="../../media/tweet.ico" width="12" /> [Mon Oct 17 21:05:23 +0000 2016](https://twitter.com/DromerDenker/status/788123766949806080)

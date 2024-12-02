@@ -1,0 +1,3 @@
+> RT @DeSpeld: Marie Kondo ingevlogen om te adviseren bij gemeentelijke herindeling \- ‘Rucphen: does it spark joy? Zo niet dan weg ermee’ htt…
+
+<img src="../../media/tweet.ico" width="12" /> [Sat Jan 12 11:31:48 +0000 2019](https://twitter.com/DromerDenker/status/1084050307850526720)

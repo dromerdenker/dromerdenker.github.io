@@ -1,0 +1,3 @@
+> RT @CodeWisdom: “It is not the language that makes programs appear simple\. It is the programmer that make the language appear simple\!” \- Un…
+
+<img src="../../media/tweet.ico" width="12" /> [Thu Oct 10 16:24:41 +0000 2019](https://twitter.com/DromerDenker/status/1182331125173235712)

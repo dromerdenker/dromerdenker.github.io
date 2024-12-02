@@ -1,0 +1,3 @@
+> Recreatierellers klagen: “We zien dat er steeds meer semi\-professionals in onze strooptochten meelopen\. Dat kan echt niet, zo verpest je de sport\. Daarom moet iedereen die aan meer dan 3 rellen heeft deelgenomen gepromoveerd worden tot 2e klasse\.”\#latenwehetleukhouden
+
+<img src="../../media/tweet.ico" width="12" /> [Tue Jan 26 08:31:26 +0000 2021](https://twitter.com/DromerDenker/status/1353983875102420992)
