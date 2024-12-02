@@ -1,3 +1,0 @@
-> Twee zwaktes: 1\. Ik kijk te vaak naar mijn werkemail vanaf mijn telefoon 2\. ik kies altijd te laat een nieuw werkwachtwoord\. \- Wegens werksecurity policy loste 2 vandaag 1 op\. Volautomatisch gered van een slechte gewoonte door een andere slechte gewoonte\. \#mooi
-
-<img src="../../media/tweet.ico" width="12" /> [Sat Aug 18 11:36:47 +0000 2018](https://twitter.com/DromerDenker/status/1030780544559263745)

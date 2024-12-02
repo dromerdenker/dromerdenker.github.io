@@ -1,3 +1,0 @@
-> life experience: a 'ticket' for something that fits the handler team's routine is efficient, and great\. But a 'ticket' for something that is essentially a request for a project, or something special is the worst possible delay that request can ever be given\.
-
-<img src="../../media/tweet.ico" width="12" /> [Wed Aug 28 02:39:26 +0000 2019](https://twitter.com/DromerDenker/status/1166540765138284547)

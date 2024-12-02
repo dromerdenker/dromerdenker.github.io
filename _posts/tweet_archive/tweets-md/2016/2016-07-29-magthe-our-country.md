@@ -1,3 +1,0 @@
-> @magthe  Our country is so worried\! NL: Zorgen over seksleven Zweedse burgers, overheid begint groot onderzoek http://www\.volkskrant\.nl/buitenland/zorgen\-over\-seksleven\-zweedse\-burgers\-overheid\-begint\-groot\-onderzoek\~a4348412/?hash\=cf2af79e262be42906c19b227b94da874ded1c7a
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Jul 29 16:14:49 +0000 2016](https://twitter.com/DromerDenker/status/759059613044109312)

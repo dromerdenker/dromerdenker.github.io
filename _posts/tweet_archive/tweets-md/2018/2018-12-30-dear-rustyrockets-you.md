@@ -1,3 +1,0 @@
-> Dear @rustyrockets You do great work, and I enjoy your provocative style\. I am though frustrated by the sheer volume of your Tweets; your liking everyone who retweets you creates the effect of filming the screen\. So, I am exchanging you for @ElonMusk now 🤭
-
-<img src="../../media/tweet.ico" width="12" /> [Sun Dec 30 22:56:05 +0000 2018](https://twitter.com/DromerDenker/status/1079511469920829441)

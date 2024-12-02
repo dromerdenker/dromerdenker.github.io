@@ -1,3 +1,0 @@
-> Allemaal eerste keren deze week\. Eerste gips, eerste morfine, eerste keer lopen met krukken\. Eerste keer mezelf injecteren\. Morgen eerste keer rolstoel\. Als het niet zo \#klote was, zou ik van een afstand oordelen dat ik reuze aan persoonlijke groei inwin\.
-
-<img src="../../media/tweet.ico" width="12" /> [Wed Mar 04 11:45:29 +0000 2020](https://twitter.com/DromerDenker/status/1235169488330424320)

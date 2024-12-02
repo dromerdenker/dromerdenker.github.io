@@ -1,3 +1,0 @@
-> On @signalapp I have a ✅Verified on every chat\. It came with less hassle than @elonmusk is trying to provide on Twitter\. Isn’t that what we need? Distributed, community based verification\. The more followers \(reach\) you have, the more votes to verify you need\. Let it grow\.
-
-<img src="../../media/tweet.ico" width="12" /> [Sun Nov 20 22:44:56 +0000 2022](https://twitter.com/DromerDenker/status/1594461819221032960)

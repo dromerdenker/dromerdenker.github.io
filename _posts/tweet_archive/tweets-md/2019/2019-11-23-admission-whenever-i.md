@@ -1,3 +1,0 @@
-> admission: Whenever I see the looks of Reese Witherspoon, hormones 🥳force me to watch her movie\. Yet before they really start to enjoy themselves 😏 I get so captivated by whatever character she plays that I have to see the movie through well after my hormones go 💤
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Nov 22 23:51:32 +0000 2019](https://twitter.com/DromerDenker/status/1198026254743674880)

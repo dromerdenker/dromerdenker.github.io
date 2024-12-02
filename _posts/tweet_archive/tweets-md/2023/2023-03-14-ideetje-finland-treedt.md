@@ -1,3 +1,0 @@
-> ideetje: Finland treedt toe tot de NAVO\. Dan verhuizen we vredig de Zweedse Koerden naar Finland, dan treedt Zweden toe tot de NAVO\. Dan verhuizen de Koerden die dat willen weer terug naar Zweden\. En natuurlijk worden die Koerden behandeld als koningen in deze stoelendans\.
-
-<img src="../../media/tweet.ico" width="12" /> [Tue Mar 14 12:58:49 +0000 2023](https://twitter.com/DromerDenker/status/1635626537188990981)

@@ -1,3 +1,0 @@
-> RT @DeSpeld: Handbalman Rafael: ‘Mensen denken dat ik alleen maar mijn nagels laat doen’ \- Heemskerker reageert op critici https://t\.co/Tw6…
-
-<img src="../../media/tweet.ico" width="12" /> [Sat Dec 17 19:20:48 +0000 2016](https://twitter.com/DromerDenker/status/810203107107995648)

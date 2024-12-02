@@ -1,3 +1,0 @@
-> Sinds de AVG \(GDPR\) van kracht is, is mijn email adres niet langer een waardevol bezit van marketeers\. Nu is het mijn permissie die ze willen\. Die is kennelijk waardevoller, want de lokkertjes \(gratis ebook, gratis account\.\.\) die ze ervoor willen ruilen groeien opmerkelijk\.
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Jul 13 05:59:15 +0000 2018](https://twitter.com/DromerDenker/status/1017649639519027201)

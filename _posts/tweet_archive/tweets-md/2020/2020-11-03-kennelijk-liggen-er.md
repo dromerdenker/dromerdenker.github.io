@@ -1,3 +1,0 @@
-> Kennelijk liggen er vuurwapens klaar in een dierentuin en aarzelen ze niet voor ze te gebruiken\. Ze laten wel soms een deurtje openstaan\. https://amp\.nos\.nl/artikel/2355048\-chimpansees\-ontsnapt\-in\-dierenpark\-amersfoort\.html?\_\_twitter\_impression\=true
-
-<img src="../../media/tweet.ico" width="12" /> [Tue Nov 03 19:34:36 +0000 2020](https://twitter.com/DromerDenker/status/1323710187686023170)

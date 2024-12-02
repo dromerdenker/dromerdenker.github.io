@@ -1,3 +1,0 @@
-> RT @signalapp: Hold tight, folks\! Signal is currently down, due to a hosting outage affecting parts of our service\. We’re working on bringi…
-
-<img src="../../media/tweet.ico" width="12" /> [Mon Sep 27 05:32:38 +0000 2021](https://twitter.com/DromerDenker/status/1442361517618380802)

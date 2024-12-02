@@ -1,3 +1,0 @@
-> @TutanotaSupport Just took your survey and I would like to add: The calendar needs most work\. I would advise to toss it out entirely, and instead embrace you are unique\. You must have a calendar, but you best focus on your email privacy\. Team up with another small 🧵1/7
-
-<img src="../../media/tweet.ico" width="12" /> [Wed Mar 29 20:04:46 +0000 2023](https://twitter.com/DromerDenker/status/1641169549507608577)

@@ -1,3 +1,0 @@
-> I attended a \#jitsu event\. Organizers disclaimer told at welcoming crowd: "Law prohibits us to Facebook\-video participants w/o consent \(GDPR\)\. People who DON'T want to be on video can get a red sticker to put on their foreheads\." \#for\_cyring\_out\_loud
-
-<img src="../../media/tweet.ico" width="12" /> [Sun Jan 12 20:20:11 +0000 2020](https://twitter.com/DromerDenker/status/1216454849493118976)

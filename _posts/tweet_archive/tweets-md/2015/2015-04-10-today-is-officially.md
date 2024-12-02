@@ -1,3 +1,0 @@
-> Today is officially short\-skirt day in Netherlands\. First warm day\. For the internationals, 10/10 is perfection: https://translate\.google\.com/translate?sl\=auto&tl\=en&js\=y&prev\=\_t&hl\=en&ie\=UTF\-8&u\=http%3A%2F%2Fwww\.weeronline\.nl%2FEuropa%2FKorte\-rokjes\-Nederland%2F135%2F9&edit\-text\=&act\=url
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Apr 10 13:58:28 +0000 2015](https://twitter.com/DromerDenker/status/586528677762043904)

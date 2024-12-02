@@ -1,3 +1,0 @@
-> Beurzen fors lager door coronavirus \- ING \- Beleggen ⁦@FTM\_nl⁩ dus ING dacht na 12%, laten we flink kopen en ging toen extra diep de boot in\! https://www\.ing\.nl/particulier/beleggen/beursnieuws\-en\-actualiteit/markten\-en\-bedrijven/beurzen\-fors\-lager\-door\-coronavirus\.html
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Mar 20 22:40:41 +0000 2020](https://twitter.com/DromerDenker/status/1241132582722588672)

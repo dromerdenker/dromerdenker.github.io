@@ -1,3 +1,0 @@
-> On business trip I have spent EUR 5 on a taxi, without a receipt\. My employer will reimburse me \- great trust \- if I sign a form which says " this certificate may be produced in court and any misrepresentation on my part exposes me to criminal penalties\." \#waitwhat\!?
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Jul 13 13:26:57 +0000 2018](https://twitter.com/DromerDenker/status/1017762304513970177)

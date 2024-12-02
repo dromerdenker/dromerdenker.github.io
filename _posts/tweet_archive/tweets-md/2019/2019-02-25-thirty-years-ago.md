@@ -1,3 +1,0 @@
-> Thirty years ago it was fun to ask the radio dj to play your favorite track\. Every radio show still has this, every day, often in contest format\. What is the point in today’s age of Spotify, Youtube, AppleMusic and my own collection in my phone? \#traditions
-
-<img src="../../media/tweet.ico" width="12" /> [Mon Feb 25 07:45:57 +0000 2019](https://twitter.com/DromerDenker/status/1099938537452064769)

@@ -1,3 +1,0 @@
-> @Rijkswaterstaat Hebben jullie wel eens overwogen om verkeerscamera’s kapotte autoverlichting te laten signaleren, met een vriendelijke waarschuwing naar de eigenaar? Dus geen boete maar goodwill en meer veiligheid? Locatie overbodig, privacy\. Beter dan knipperen naar elkaar\.
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Sep 13 20:50:43 +0000 2019](https://twitter.com/DromerDenker/status/1172613600378269697)

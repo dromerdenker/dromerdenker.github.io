@@ -1,3 +1,0 @@
-> RT @DeSpeld: Camiel Eurlings onder Saoedische vlag naar Olympische Spelen \- ‘Ze begrijpen daar niet wat het probleem is’ https://t\.co/ZDBnO…
-
-<img src="../../media/tweet.ico" width="12" /> [Fri Jan 05 13:52:09 +0000 2018](https://twitter.com/DromerDenker/status/949277343041970176)

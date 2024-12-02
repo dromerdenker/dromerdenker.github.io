@@ -1,3 +1,0 @@
-> @Coolblue\_NL Die ene keer in 15 jaar dat ik een wasdroogcombi bestel, maakt wat levertijd me niks uit\. Toch is het krom om “morgen geleverd” in checkout dan van woensdag tot aan zondag te rekken in bezorgvakcapaciteit hè\. \#vakantietijd denk ik\. Minder optimistisch labelen\!
-
-<img src="../../media/tweet.ico" width="12" /> [Tue Aug 06 17:51:30 +0000 2019](https://twitter.com/DromerDenker/status/1158797762282045443)
