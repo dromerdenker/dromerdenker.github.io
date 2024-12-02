@@ -1,0 +1,3 @@
+> Hoofdofficier van justitie haalt uit naar politici: doe geen aangifte, schrijf een opiniestuk https://www\.volkskrant\.nl/politiek/hoofdofficier\-van\-justitie\-haalt\-uit\-naar\-politici\-doe\-geen\-aangifte\-schrijf\-een\-opiniestuk\~a4578715/?hash\=38274e5f6031fde4df2b4318870dc9547e32795f via @volkskrant
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Mar 09 18:58:14 +0000 2018](https://twitter.com/DromerDenker/status/972184804321038338)

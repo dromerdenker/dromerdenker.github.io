@@ -1,0 +1,3 @@
+> RT @CasualThursday: I don’t have any “business skills” or “work experience” per se but if you hire me I will create the perfect nickname fo…
+
+<img src="../../media/tweet.ico" width="12" /> [Tue Feb 02 12:13:58 +0000 2021](https://twitter.com/DromerDenker/status/1356576591531417600)

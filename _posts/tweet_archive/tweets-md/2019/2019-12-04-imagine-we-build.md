@@ -1,0 +1,3 @@
+> Imagine we build in the owner of master data \(incl\. personal data\) into the application\. And then make the application gracefully degrade \(hide data\), when owners leave the company or retract their permission\. Rather than anonymizing, begin with a fall\-back placeholder from day 1
+
+<img src="../../media/tweet.ico" width="12" /> [Wed Dec 04 17:20:45 +0000 2019](https://twitter.com/DromerDenker/status/1202276565956136961)

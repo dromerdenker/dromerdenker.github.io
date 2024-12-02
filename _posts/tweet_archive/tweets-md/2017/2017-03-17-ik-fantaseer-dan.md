@@ -1,0 +1,3 @@
+> Ik fantaseer dan over vrije pers die een vrouw in ziekenhuis interviewt tussen weeën van haar 1e baby \#nog4 http://www\.ad\.nl/buitenland/erdogan\-wil\-dat\-europese\-turken\-minstens\-vijf\-kinderen\-krijgen\~a3888d32/?utm\_source\=twitter&utm\_medium\=social&utm\_campaign\=socialsharing\_web
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Mar 17 18:33:38 +0000 2017](https://twitter.com/DromerDenker/status/842806145010024448)

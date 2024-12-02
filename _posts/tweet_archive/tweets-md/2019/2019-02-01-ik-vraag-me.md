@@ -1,0 +1,3 @@
+> Ik vraag me af of er in Rusland een digitale legbatterij van ijverig tweetende, zwetende, grijnzende ghost\-auteurs zit, of dat ze daar AI voor ontwikkeld hebben\. Duizenden berichten, met een doelgericht sentiment\. \#veelwerk https://www\.nu\.nl/internet/5717244/twitter\-en\-facebook\-wissen\-honderden\-accounts\-vanwege\-beinvloeding\.html
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Feb 01 07:15:49 +0000 2019](https://twitter.com/DromerDenker/status/1091233645057196032)

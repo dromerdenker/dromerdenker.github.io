@@ -1,0 +1,3 @@
+> RT @JimMFelton: Since the government are announcing a crackdown on skilled EU migrants earning less than £30,000 after Brexit this infuriat…
+
+<img src="../../media/tweet.ico" width="12" /> [Wed Jan 16 11:11:32 +0000 2019](https://twitter.com/DromerDenker/status/1085494759462821894)

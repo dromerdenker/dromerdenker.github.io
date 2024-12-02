@@ -1,0 +1,3 @@
+> Whenever I have to sit through Nissan Juke TV commercial, I wonder what idiot needs his car nav to be sent his workplace address\. Stupid on so many levels, it rubs off on my imagined target audience for this car\. \#dumb\-people https://youtu\.be/9uxsWJ5jiqA
+
+<img src="../../media/tweet.ico" width="12" /> [Sun Feb 16 20:12:43 +0000 2020](https://twitter.com/DromerDenker/status/1229136544214200320)

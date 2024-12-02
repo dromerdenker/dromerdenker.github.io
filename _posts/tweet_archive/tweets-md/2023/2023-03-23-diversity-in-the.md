@@ -1,0 +1,3 @@
+> Diversity in the workplace is so essential\. For example where I work, there is barely any diversity\. I mean, one does not ask fellow workers straight up about such intimate things, but I am quite sure, secretly, the dog 🐶 lovers far outnumber the cat 🐈 lover minority\.
+
+<img src="../../media/tweet.ico" width="12" /> [Thu Mar 23 13:37:32 +0000 2023](https://twitter.com/DromerDenker/status/1638897771221512194)

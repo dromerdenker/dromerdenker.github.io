@@ -1,0 +1,3 @@
+> \#corona Ik begrijp niet waarom het kabinet zo graag een big\-bang wil\. Waarom niet in stapjes van 2/3 weken telkens 1 maatregel minder? Thuiswerken houden we best lang vol, mondkapjes vindt iedereen irritant\. Kleine stapjes, observeren, meten, kalm aan\.
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Aug 13 19:00:00 +0000 2021](https://twitter.com/DromerDenker/status/1426257247018143759)

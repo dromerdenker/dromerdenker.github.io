@@ -1,0 +1,3 @@
+> What she says 👇 @barrysmit  Het zit hem niet in tijdstip, maar in voorraadreservering\. Wel oppassen met ons gelijkheidsbeginsel: niet discrimineren zorg/geenzorg\. Iedereen zou moeten kunnen bestellen en afhalen in de winkel\. https://twitter\.com/moksieM/status/1240271360288579586
+
+<img src="../../media/tweet.ico" width="12" /> [Wed Mar 18 13:56:28 +0000 2020](https://twitter.com/DromerDenker/status/1240275884071890944)

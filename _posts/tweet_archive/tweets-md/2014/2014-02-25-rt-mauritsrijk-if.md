@@ -1,0 +1,3 @@
+> RT @mauritsrijk: If there would be an on\-line petition to sign against personal development plans \(aka PDP’s\) I would sign it\. This is 2014…
+
+<img src="../../media/tweet.ico" width="12" /> [Tue Feb 25 21:33:11 +0000 2014](https://twitter.com/DromerDenker/status/438426475310891008)

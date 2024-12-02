@@ -1,0 +1,3 @@
+> Travel agency of our company emailed a itinerary PDF, with right at the top a comforting “anything wrong? Call us 24x7 at below phone”, and under that a phone number\. Sadly that phone number is “not a valid phone number” according to the phone operator\. \#sigh
+
+<img src="../../media/tweet.ico" width="12" /> [Fri Aug 23 10:43:42 +0000 2019](https://twitter.com/DromerDenker/status/1164850697264934912)

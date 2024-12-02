@@ -1,0 +1,3 @@
+> RT @jaspervankuijk: Lijkt me zo lekker om het na de coronacrisis even om te draaien en dan in élk praatprogramma, bij élk onderwerp, áltijd…
+
+<img src="../../media/tweet.ico" width="12" /> [Sun May 03 13:45:19 +0000 2020](https://twitter.com/DromerDenker/status/1256942921036808192)

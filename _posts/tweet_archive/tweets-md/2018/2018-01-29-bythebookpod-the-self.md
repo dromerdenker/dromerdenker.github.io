@@ -1,0 +1,3 @@
+> @bythebookpod The Self Talk experiment benefitted from an embrace of positive affirmations\. The same affirmations you murdered in the Miracle Morning\. \#justsaying Unfair rulings aside, clearly you are a "Quality Person" more than a "Level 10"\. Personally, I think both are BS 😎
+
+<img src="../../media/tweet.ico" width="12" /> [Mon Jan 29 21:05:49 +0000 2018](https://twitter.com/DromerDenker/status/958083785609932801)

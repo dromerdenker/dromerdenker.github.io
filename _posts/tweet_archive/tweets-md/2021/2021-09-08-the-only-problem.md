@@ -1,0 +1,3 @@
+> The only problem with TDD is that at some point I find myself getting lost in optimizing performance of the tests, rather than working on the actual code\. That’s no luxury, tests should be fast, so you run them often\. But still…
+
+<img src="../../media/tweet.ico" width="12" /> [Wed Sep 08 14:38:45 +0000 2021](https://twitter.com/DromerDenker/status/1435613584738881541)
